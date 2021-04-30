@@ -5,7 +5,7 @@ Ex: @horizonBot Send me a photo of kevin!
 ## Commands (NEW)
 
 - `kevin`. Replies with a photo of Kevin.
-` `horizon`. Fixes horizon of photo in parent tweet.
+- `horizon`. Fixes horizon of photo in parent tweet.
 
 ## Scripts
 
